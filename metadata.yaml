@@ -1,0 +1,36 @@
+_repo: The-Guards-Came-Through-and-Other-Poems_38071
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38071-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38071'
+  lccn: '20001901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+tableOfContents: The guards came through -- Victrix -- Those others -- Haig is moving
+  -- The guns in Sussex -- Ypres -- Grousing -- The volunteer -- The night patrol
+  -- The wreck on Loch McGarry -- The bigot -- The Athabasca Trail -- Ragtime! --
+  Christmas in wartime -- Lindisfaire -- A parable -- Fate.
+title: The Guards Came Through, and Other Poems
+url: http://www.gutenberg.org/ebooks/38071
